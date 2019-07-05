@@ -11,4 +11,4 @@ Features:
 - Round-robin/Priority task scheduling
 - Priority Inheritance
 - Semaphores
-- Shell Commands from PC
+- Shell Commands from PC such as On/Off features, and Display CPU usage and process list
